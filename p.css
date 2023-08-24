@@ -47,13 +47,13 @@ table {
 	border-spacing: 0;
 }
 
-.h1{
+h1{
     font-size: larger;
     font-weight: bold;
     color: blueviolet;
 }
 
-.ul{
+ul{
     font-size: 80pt;
     font-weight: 400;
     color: chocolate;
