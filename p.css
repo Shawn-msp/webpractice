@@ -48,11 +48,13 @@ table {
 }
 
 .h1{
-    font-size: 100px;
-    color: red;
-}
-.section{
     font-size: larger;
-    font-weight: 600;
-    color: aqua;
+    font-weight: bold;
+    color: blueviolet;
+}
+
+.ul{
+    font-size: 80pt;
+    font-weight: 400;
+    color: chocolate;
 }
