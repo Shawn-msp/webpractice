@@ -1,4 +1,9 @@
-h1{
+.h1{
     font-size: 100px;
     color: red;
+}
+.section{
+    font-size: larger;
+    font-weight: 600;
+    color: aqua;
 }
